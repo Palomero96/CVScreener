@@ -1,0 +1,44 @@
+{
+  "junior_engineer": {
+    "job_title": "Junior Software Engineer",
+    "department": "Engineering",
+    "role_summary": "We are looking for a passionate Junior Software Engineer eager to learn, write clean code, and build a strong foundation in computer science.",
+    "key_responsibilities": [
+      "Assist in the development of web applications.",
+      "Write clean, maintainable, and efficient code.",
+      "Participate in code reviews.",
+      "Debug and troubleshoot issues."
+    ],
+    "required_skills": [
+      "Bachelor's degree in Computer Science.",
+      "Basic understanding of algorithms.",
+      "Proficiency in Python or Java."
+    ],
+    "tech_stack": {
+      "languages": ["Python", "JavaScript"],
+      "frameworks": ["Django", "React"],
+      "databases": ["PostgreSQL"]
+    }
+  },
+  "dba_admin": {
+    "job_title": "Database Administrator",
+    "department": "Infrastructure",
+    "role_summary": "We are seeking an experienced DBA to ensure the performance, availability, and security of our data clusters.",
+    "key_responsibilities": [
+      "Monitor database performance and query tuning.",
+      "Manage backups and disaster recovery.",
+      "Design database schemas and access policies.",
+      "Automate maintenance tasks."
+    ],
+    "required_skills": [
+      "Strong proficiency in SQL and PL/pgSQL.",
+      "Experience with High Availability strategies.",
+      "Proficiency in scripting (Bash, Python)."
+    ],
+    "tech_stack": {
+      "rdbms": ["PostgreSQL", "MySQL"],
+      "nosql": ["MongoDB", "Redis"],
+      "infrastructure": ["Docker", "Linux"]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "candidate_name": "FIRST LAST",
+        "compatibility_score": 62,
+        "summary": "An highly experienced software engineer with a strong academic background and demonstrated proficiency in Java, JavaScript, and React. Possesses extensive experience in web application development, optimization, and system integration, making them a technically capable candidate for engineering roles.",
+        "strengths": [
+            "Holds an M.S. in Computer Science, exceeding the Bachelor's degree requirement and demonstrating a strong foundational understanding of algorithms.",
+            "Proficient in Java and JavaScript, directly matching key language requirements, and extensive experience with ReactJS and React Native.",
+            "Over 5 years of professional experience as a Programmer Analyst at a major corporation, demonstrating practical application development and optimization skills.",
+            "Extensive project experience covering web application development, database integration (SQL), Docker, and CI/CD pipelines (CircleCI, Heroku).",
+            "Proven ability to deliver impactful solutions, such as optimizing processes 20x faster with Java and improving call center efficiency by 30%."
+        ],
+        "missing_critical_skills": [
+            "Django (framework)",
+            "PostgreSQL (database)"
+        ],
+        "experience_level_assessment": "Mismatch (Overqualified)",
+        "recommendation": "Hold"
+    }
+]
